@@ -1,17 +1,8 @@
-/* Cambiar de color el menu al hacer scroll */
-window.onscroll=function(){
-    if($("#menu").offset().top > 100){
-        document.getElementById('menu').style.background = '#fff';
-        document.getElementById('menu').style.transition = '0.5s';
-    }
-    else{
-        document.getElementById('menu').style.background = '';
-    }
-}
 const typed = new Typed('.typed', {
     strings: [
-    '<i>Te doy la bienvenida a mi portafolio</i>', 
-    '<i>Ing. en Computación y Desarrollador Web</i>', 
+    '<i>Bienvenido a mi portafolio</i>', 
+    '<i>Ing. en Computación</i>', 
+    '<i>Desarrollador Web</i>',
     
     ],
    // stringsElement: '#cadenas-texto', // ID del elemento que contiene cadenas de texto a mostrar.
