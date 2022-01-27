@@ -121,7 +121,7 @@ p {
     border: solid 1px var(--secondary-color);
     border-radius: 20px;
     box-shadow: 0 0 10px var(--hover-socondary-color);
-    width: 60%;
+    width: 60vw;
     height: 50px;
     text-align: center;
     bottom: 0;
