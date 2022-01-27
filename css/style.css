@@ -121,7 +121,7 @@ p {
     border: solid 1px var(--secondary-color);
     border-radius: 20px;
     box-shadow: 0 0 10px var(--hover-socondary-color);
-    width: 60vw;
+    width: 80vw;
     height: 50px;
     text-align: center;
     bottom: 0;
@@ -140,30 +140,7 @@ p {
     margin-top: 12px;
 }
 /******************/
-.menu-movil{
-    
-    background-color: rgba(87,123,193,.8);
-    border: solid 1px var(--secondary-color);
-    border-radius: 20px;
-    box-shadow: 0 0 10px var(--hover-socondary-color);
-    width: 80vw;
-    height: 50px;
-    text-align: center;
-    bottom: 0;
-    margin-bottom: 20px;
-    z-index: 30;
-}
-.menu-movil a{
-    font-size: 25px;
-    color: var(--white-color);
-}
-.menu-movil a:hover{
-    font-size: 25px;
-    color: var(--hover-secondary-color-2);
-}
-.menu-movil i{
-    margin-top: 12px;
-}
+
 
 .sobre-mi li{
     color: var(--white-color-2);
