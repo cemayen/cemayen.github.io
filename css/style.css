@@ -33,6 +33,20 @@ p {
     background: var(--hover-socondary-color);
 }
 
+.logo .img img{
+    background: var(--secondary-color);
+ border: solid 2px var(--secondary-color);
+ border-radius: 50px;
+ padding: 10px;
+ box-shadow: 0 0 10px var(--hover-socondary-color),
+             0 0 15px var(--hover-socondary-color);
+}
+.logo .img img:hover{
+    
+    box-shadow: 0 0 10px var(--hover-secondary-color-2),
+             0 0 15px var(--hover-secondary-color-2);
+}
+
 .banner {
     width: 100%;
     height: 100vh;
