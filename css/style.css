@@ -308,3 +308,6 @@ footer{
 .social-footer a:hover{
     color: var(--white-color-3);
 }
+.servicios2 li{
+    color: var(--white-color);
+}
