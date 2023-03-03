@@ -51,11 +51,11 @@ a {
   z-index: 4;
 }
 #dark-mode-toggle-1[mode="dark"] {
-  --dark-mode-toggle-dark-icon: url("https://raw.githubusercontent.com/cemayen/cemayen.github.io/83c23e1426ea66a90abd0be09a788cdfeab62657/img/icons/moon.svg") !important;
+  --dark-mode-toggle-dark-icon: url("https://raw.githubusercontent.com/cemayen/cemayen.github.io/83c23e1426ea66a90abd0be09a788cdfeab62657/img/icons/sun.svg") !important;
   --dark-mode-toggle-icon-size: 1.5rem;
 }
 #dark-mode-toggle-1[mode="light"] {
-  --dark-mode-toggle-light-icon: url("https://raw.githubusercontent.com/cemayen/cemayen.github.io/83c23e1426ea66a90abd0be09a788cdfeab62657/img/icons/sun.svg") !important;
+  --dark-mode-toggle-light-icon: url("https://raw.githubusercontent.com/cemayen/cemayen.github.io/83c23e1426ea66a90abd0be09a788cdfeab62657/img/icons/moon.svg") !important;
   --dark-mode-toggle-icon-size: 1.5rem;
 }
 
