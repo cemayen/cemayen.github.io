@@ -1,0 +1,15 @@
+:root{
+    --background-color: #f9f9f9;
+    --color-texto: #212529;
+    --background-btn: #e6e9ed;
+    --text-btn: #577bc1;
+    --background-btn-hover: #577bc1;
+    --text-btn-hover: #e6e9ed;
+    --border: #577bc1;
+    --border-opacity:#21252927;
+    --color-azul: #1746A2;
+    --background-azul: #EBEDED;
+    --color-morado: #8573FA;
+    --color-blue: #2A7EFC;
+    --background-portada: #e6e9ed;
+}
