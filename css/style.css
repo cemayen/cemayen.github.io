@@ -641,6 +641,22 @@ footer .copy p {
 .img-responsive-cemayen{
   width: 75%;
 }
+.descripcion-biografia ul{
+  text-align: start;
+  list-style: none;
+  padding-left: 0px;
+}
+.descripcion-biografia ul li{
+  color: var(--color-texto);
+}
+.descripcion-biografia h3{
+  text-align: start;
+  font-size: 20px;
+  color: var(--azul);
+}
+.descripcion-biografia h3 span{
+  color: var(--color-texto);
+}
 @media screen and (max-width: 1399px) {
   .toggle-dark-mode {
     margin-right: 100px;
