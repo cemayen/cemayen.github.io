@@ -13,7 +13,7 @@ html{
 body{
     background-color: var(--bg-color) !important;
     transition: all .3s ease-in-out;
-    overflow-y: hidden;
+    overflow-x: hidden;
 }
 *::-webkit-scrollbar {
     width: 6px;
